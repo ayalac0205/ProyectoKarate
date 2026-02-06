@@ -1,4 +1,4 @@
-Feature: DELETE /usuarios - Eliminar usuario
+Feature: Eliminacion de usuario
 
   Background:
     * url baseUrl

@@ -1,4 +1,4 @@
-Feature: GET /usuarios
+Feature: Consulta de usuarios
 
   Background:
     * url baseUrl

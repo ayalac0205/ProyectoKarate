@@ -1,4 +1,4 @@
-Feature: POST /usuarios
+Feature: Creacion de usuarios
 
   Background:
     * url baseUrl
